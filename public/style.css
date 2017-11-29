@@ -1,0 +1,42 @@
+#mosar-chat{
+  width: 30em;
+  margin-left: 20%;
+  margin-top: 3em;
+}
+
+#chat-windows{
+  width: 30em;
+  height: 30em;
+  background-color: whitesmoke; 
+  box-shadow: 1px 1px 1px whitesmoke;
+}
+
+#user{
+  width: 30em;
+  height: 4em;
+  border-top: 0px;
+  border-bottom: 0px;
+}
+
+#message{
+  width: 30em;
+  height: 4em;
+  border-radius: 0px;
+}
+
+#send{
+  width: 30em;
+  height: 4em;
+  border-radius: 0px;
+  box-shadow: 1px 1px 1px whitesmoke;
+  
+}
+
+strong{
+  color: cadetblue;
+}
+
+#feel-back{
+  font-style: italic;
+  color: whitesmoke;
+}
