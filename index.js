@@ -29,3 +29,8 @@ io.on('connection',function (socket) {
   
 });
 
+//Routes setup
+
+app.get('/', (req, res) => {
+  res.render(index);
+});
