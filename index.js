@@ -5,8 +5,8 @@ let socket = require('socket.io');
 
 let app = express();
 
-let Server = app.listen(3000, (req, res) => {
-  console.log("Server running on http://localhost:3000");
+let Server = app.listen(5000, (req, res) => {
+  console.log("Server running on http://localhost:5000");
 });
 
 // Static file
